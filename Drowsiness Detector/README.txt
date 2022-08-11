@@ -9,4 +9,6 @@ Ready for the core of this WHOLE PROJECT?
 When the ratio goes below the threshold value ,we start counting the number of frames for which the the value is below the threshold.
 Why do we do this?Why don't we sound the alarm right away?
 BECAUSE WE BLINK! So we have to make sure that the subject is not , we define a period of time(i.e,frames) for which the it is permissible for a person to BLINK.
-When the frames increase a specified threshold value,WE GO AHEAD AND SOUND THE ALARM.
+When the frames increase a specified threshold value,WE GO AHEAD AND SOUND THE ALARM!
+
+
